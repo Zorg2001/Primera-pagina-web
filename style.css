@@ -1,0 +1,36 @@
+#titulo{
+    color:tomato;
+}
+p.texto{
+    color:slateblue;
+}
+p.especial{
+    color:blue;
+}
+div p{
+    color:aquamarine;
+}
+div h2, div h3{
+    color:#9daa4a;
+}
+.Color{
+    color: #196913;
+    border-style: solid;
+    border-radius: 8px;
+    border-color: #f62144;
+    border-width: 4px;
+}
+#fondo{
+    background-color: #9daa4a;
+    /* opacity: 0.7; */
+    background-image: url('1366_2000.jpeg');
+    height: 200px 200px;
+    background-repeat: repeat-y;
+}
+.margen{
+    background-color: chocolate;
+    margin: 5px;
+    padding: 10px;
+    border: solid 1px black;
+
+}
